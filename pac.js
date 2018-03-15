@@ -3,6 +3,7 @@ var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; PROXY 127.0.0.1:1080; 
 var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*google\\.(com|com.hk)\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*gmail\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*googleapis\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*googleusercontent\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*gstatic\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*facebook\\.com\\/.*/",
