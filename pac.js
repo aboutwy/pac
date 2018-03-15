@@ -6,6 +6,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*googleapis\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*googleusercontent\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*gstatic\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*amazon\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*facebook\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbsbx\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbcdn\\.net\\/.*/",
