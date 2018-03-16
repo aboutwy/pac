@@ -9,6 +9,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*amazon\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*tumblr\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*instagram\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*cdninstagram\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*facebook\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbsbx\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbcdn\\.net\\/.*/",
