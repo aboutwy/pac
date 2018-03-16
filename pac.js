@@ -11,6 +11,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*instagram\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*cdninstagram\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*facebook\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*facebook\\.net\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbsbx\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbcdn\\.net\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*twitter\\.com\\/.*/",
