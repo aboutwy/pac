@@ -8,6 +8,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*gstatic\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*blogspot\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*blogger\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*youtube\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*amazon\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*tumblr\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*instagram\\.com\\/.*/",
