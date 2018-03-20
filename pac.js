@@ -18,6 +18,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*fbcdn\\.net\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*twitter\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*twimg\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*tensorflow\\.org\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*schema\\.org\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*wikipedia\\.org\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*nextmag\\.com\\.tw\\/.*/",
