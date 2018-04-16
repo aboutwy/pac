@@ -10,6 +10,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*blogger\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*youtube\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*amazon\\.com\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*awsstatic\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*tumblr\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*instagram\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*cdninstagram\\.com\\/.*/",
