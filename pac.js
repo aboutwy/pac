@@ -17,6 +17,7 @@ var rules = [
     "/^https?:\\/\\/([^\\/]+\\.)*facebook\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbsbx\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*fbcdn\\.net\\/.*/",
+    "/^https?:\\/\\/([^\\/]+\\.)*cloudfront\\.net\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*twitter\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*twimg\\.com\\/.*/",
     "/^https?:\\/\\/([^\\/]+\\.)*tensorflow\\.org\\/.*/",
